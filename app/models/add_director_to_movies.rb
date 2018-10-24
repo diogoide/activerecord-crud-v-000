@@ -1,2 +1,2 @@
 class AddColumnDirector < ActiveRecord::Base
-end 
+end
