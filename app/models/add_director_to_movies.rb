@@ -1,2 +1,2 @@
-class AddDirectorToMovies < ActiveRecord::Base
+class AddColumnDirector < ActiveRecord::Base
 end 
